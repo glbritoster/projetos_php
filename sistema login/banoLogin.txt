@@ -1,0 +1,9 @@
+banco login
+
+tabela usuarios
+
+id auto incremento
+email var char 100
+senha var 32
+
+
